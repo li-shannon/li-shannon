@@ -4,7 +4,13 @@
 <p align="center">I'm Code Sparkle. Thanks for visiting my little digital world!</p>
 
 ## 🤓 About Me
-- I’m interested in mobile app development, embedded software, web development
+I am currently a Computer Science student. My interests are:
+- Mobile app development
+- Embedded software system
+- Web development
+- Data Science
+- AI and machine learning
+- Healthcare informatics
 
 ## 🌱 My Programming Languages
 <!-- Language List --->
