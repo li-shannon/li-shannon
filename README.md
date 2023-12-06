@@ -1,19 +1,19 @@
-<div id="heading">
-  <h1 align="center">Hi, I'm Code Sparkle</h1>
-</div>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a> Hey! Welcome Aboard! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <!-- Introduction --->
-- 👀 I’m interested in mobile app development, embedded software, web development
+<p align="center">I'm Code Sparkle. Thanks for visiting my little digital world!</p>
 
-- 🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS
+## 🤓 About Me
+- I’m interested in mobile app development, embedded software, web development
 
-<!-- Statistics -->
-<table id="statistics" align="center">
-  <tbody>
-    <tr>
-      <td>
-        <img title="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&theme=tokyonight")>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 🌱 My Programming Languages
+<!-- Language List --->
+
+<p>
+  <a href=https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light"/>
+  </a>
+</p>
+<!-- Language Statistics --->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle)
