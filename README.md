@@ -1,18 +1,21 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a> Hey! Welcome Aboard! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><samp> Welcome Aboard!👋 </samp></h1>
 
 <!-- Introduction --->
-<p align="center">I'm Code Sparkle. Thanks for visiting my little digital world!</p>
+<samp>&gt; I'm Code Sparkle. Glad to see you here! </samp>
 
-## 🤓 About Me
-I am currently a Computer Science student. My interests are:
-- Mobile app development
-- Embedded software system
-- Web development
-- Data Science
-- AI and machine learning
-- Healthcare informatics
+## <samp>About Me</samp>
+<samp> I am currently a first-year Computer Science undergraduate. 😁 <br> My dream is to become a software engineer and commit myself to detailed and innovative projects that could make a difference! ✌️</samp>
 
-## 🌱 My Programming Languages
+### <samp> 🤓 My interests</samp>
+- <samp> Mobile app development </samp>
+- <samp> Game development </samp>
+- <samp> Web development </samp>
+- <samp> Embedded software system </samp>
+- <samp> Data science </samp>
+- <samp> AI and machine learning </samp>
+- <samp> Healthcare informatics </samp>
+
+### <samp> 🌱 My Programming Languages </samp>
 <!-- Language List --->
 
 <p>
@@ -21,5 +24,7 @@ I am currently a Computer Science student. My interests are:
   </a>
 </p>
 <!-- Language Statistics --->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&hide-border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
