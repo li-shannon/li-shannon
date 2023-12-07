@@ -25,6 +25,6 @@
 </p>
 <!-- Language Statistics --->
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&hide-border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=neon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&count_private=true&include_all_commits=true&theme=neon" />
 </p>
