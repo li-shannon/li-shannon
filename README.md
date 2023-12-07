@@ -10,14 +10,14 @@
 ## 🌱 My Tech Stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=neon"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=neon"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&count_private=true&include_all_commits=true&theme=neon" /> -->
-  <img height="180" src="https://streak-stats.demolab.com/?user=code-sparkle&border_radius=6&theme=neon"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=code-sparkle&border_radius=6&theme=neon"/>
 </p>
 
 <!-- Skill List --->
-### <samp>&gt; Languages </samp>
-<p> &nbsp; &nbsp;
+### Languages
+<p>
   <img alt="Java" src="https://img.shields.io/badge/Java-black?"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white"/>
@@ -25,8 +25,8 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=white"/>
 </p>
 
-### <samp>&gt; Tools </samp>
-<p> &nbsp; &nbsp;
+### Tools 
+<p>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/VS_Code-black?logo=visualstudiocode&logoColor=white"/>
