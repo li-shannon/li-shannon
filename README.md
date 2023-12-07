@@ -10,9 +10,9 @@
 ## 🌱 My Tech Stack
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=neon"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=radical"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&count_private=true&include_all_commits=true&theme=neon" /> -->
-  <img height="150" src="https://streak-stats.demolab.com/?user=code-sparkle&border_radius=6&theme=neon"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=code-sparkle&border_radius=6&theme=radical"/>
 </p>
 
 <!-- Skill List --->
