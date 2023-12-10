@@ -4,7 +4,7 @@
 
 ## <samp>About Me</samp>
 <p align="left">
-  <samp>&gt; I'm Code Sparkle. Glad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about combining the freedom of innovation with the precision of coding logic.</samp>
+  <samp>&gt; I'm Code Sparkle. Glad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about fulfilling the freedom of innovation through the implementation of precise coding logic.</samp>
 </p>
 
 ## 🌱 My Tech Stack
@@ -21,8 +21,8 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-black?"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=white"/>
 </p>
 
 ### Tools 
