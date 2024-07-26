@@ -28,8 +28,8 @@
 ### Tools 
 <p>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/VS_Code-black?logo=visualstudiocode&logoColor=white"/>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-black?logo=eclipseide&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-black?logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <!-- <a href=https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light"/> </a> -->
