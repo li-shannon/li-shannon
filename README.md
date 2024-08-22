@@ -4,15 +4,14 @@
 
 ## <samp>About Me</samp>
 <p align="left">
-  <samp>&gtGlad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about fulfilling the freedom of innovation through the implementation of precise coding logic.</samp>
+  <samp>&gt; Hi, my name is Shannon. Glad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about fulfilling the freedom of innovation through the implementation of precise coding logic.</samp>
 </p>
 
 ## 🌱 My Tech Stack
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-sparkle&show_icons=true&layout=compact&theme=radical"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-sparkle&show_icons=true&count_private=true&include_all_commits=true&theme=neon" /> -->
-  <img height="150" src="https://streak-stats.demolab.com/?user=code-sparkle&border_radius=6&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-shannon&show_icons=true&layout=compact&theme=radical"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=li-shannon&border_radius=6&theme=radical"/>
 </p>
 
 <!-- Skill List --->
@@ -37,10 +36,11 @@
 ## 🤓 My Interests
 
 - Mobile app development
+- Healthcare informatics
+- Embedded software system
 - Game development
 - Web development
-- Embedded software system
 - Data science
 - AI and machine learning
-- Healthcare informatics
+
 
