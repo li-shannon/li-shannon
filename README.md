@@ -4,7 +4,7 @@
 
 ## <samp>About Me</samp>
 <p align="left">
-  <samp>&gt; I'm Code Sparkle. Glad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about fulfilling the freedom of innovation through the implementation of precise coding logic.</samp>
+  <samp>&gtGlad to see you here! <br/>&gt; I am a Computer Science student who dreams of becoming a full-stack developer. <br/>&gt; I am passionate about fulfilling the freedom of innovation through the implementation of precise coding logic.</samp>
 </p>
 
 ## 🌱 My Tech Stack
