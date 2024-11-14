@@ -35,12 +35,13 @@
 
 ## 🤓 My Interests
 
-- Mobile app development
-- Healthcare informatics
-- Embedded software system
-- Game development
-- Web development
-- Data science
 - AI and machine learning
+- Data science
+- Healthcare informatics
+- Mobile app development
+- Embedded software system
+- Web development
+
+
 
 
